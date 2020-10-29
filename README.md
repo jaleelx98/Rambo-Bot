@@ -1,34 +1,66 @@
 # ![Image](Instagram2016_white-(64px).png) RAMBO BOT - Instagram Automation Tools
 
-Instagram www.instagram.com/jaleel_x98
-
+----
+### - [Description](#description)
+### - [Features Of The Rambo-Bot](#features-of-the-rambo-bot)
+### - [Installation](#installation)
+### - [License](#license)
+### - [Contact Us](#contact-us)
+### - [Donate](#donate)
 ----
 
-### Installation
-
-```
-$apt uptade
-$apt upgrade
-$pkg install nodejs-lts
-$cd /storage/emulated/0/rambo/
-$node index.js
-
-```
-
+# Description
+- Best Instagram Bot For Termux. 
+- Bot Like Timeline
+- Comment & Like Followers Target by People
+- Comment & Like Followers Target by Hashtag
+- Best Instagram Growth Service for Organic Followers.
+- Completly FREE
 ----
 
-### Features
+# Installation
+
+Step 1 (Install Nodejs)
+```
+pkg install nodejs-lts
+```
+Step 2 (Clone or Download)
+```
+git clone https://github.com/jaleelx98/Rambo-Bot.git
+```
+Step 2 (Open Rambo-Bot Drectory)
+```
+cd Rambo-Bot
+```
+Step 3 (Unzip)
+```
+unzip node_modules.zip
+```
+Step 4 (Run Rambo-Bot)
+```
+node index.js
+```
+---
+
+
+## Features Of The Rambo-Bot
 
 * Bot Like Timeline
 * Comment & Like Followers Target by People
 * Comment & Like Followers Target by Hashtag
 
-----
+---
+## License
+##### Copyright (c) [2020] [jaleel_x98]
+##### Licensed under the Apache License, Version 2.0
+---
+### Contact Us
+- https://instagram.com/jaleel_x98 
 
-### Thanks to
-
-  [✓] RAMBO BOT
-  [✓] Codded by jaleel_x98 
-
-
+---
+## Support the authors:
+## Consider donating ❤️
+#### Support the authors:
+#### Paypal:https://www.paypal.com/paypalme/jaleeljale
+---
 

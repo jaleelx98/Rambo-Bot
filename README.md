@@ -7,8 +7,6 @@ Instagram www.instagram.com/jaleel_x98
 ### Installation
 
 ```
-*messege me on instagram @jaleel_x98 for script*
-*Extract the script to internal storage*
 $apt uptade
 $apt upgrade
 $pkg install nodejs-lts

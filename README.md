@@ -60,7 +60,6 @@ node index.js
 ---
 ## Support the authors:
 ## Consider donating ❤️
-#### Support the authors:
 #### Paypal:https://www.paypal.com/paypalme/jaleeljale
 ---
 

@@ -1,4 +1,4 @@
-# ![Image](Instagram2016_white-(64px).png) SUPER BOT - Instagram Automation Tools
+# ![Image](Instagram2016_white-(64px).png) Rambo BOT - Instagram Automation Tools
 
 Instagram www.instagram.com/jaleel_x98
 

@@ -1,6 +1,8 @@
 # ![Image](Instagram2016_white-(64px).png) RAMBO BOT - Instagram Automation Tools
 
 ----
+## Table of Contents
+
 ### - [Description](#description)
 ### - [Features Of The Rambo-Bot](#features-of-the-rambo-bot)
 ### - [Installation](#installation)

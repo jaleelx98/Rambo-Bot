@@ -57,7 +57,7 @@ node index.js
 ##### Licensed under the Apache License, Version 2.0
 ---
 ### Contact Us
-- https://instagram.com/jaleel_x98 
+- [Installation]( https://instagram.com/jaleel_x98 )
 
 ---
 ## Support the authors:

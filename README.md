@@ -2,7 +2,7 @@
 
 ----
 ## Table of Contents
-
+### - Completly FREE
 ### - [Description](#description)
 ### - [Features Of The Rambo-Bot](#features-of-the-rambo-bot)
 ### - [Installation](#installation)
@@ -12,12 +12,14 @@
 ----
 
 # Description
+
+- Completly FREE
 - Best Instagram Bot For Termux. 
 - Bot Like Timeline
 - Comment & Like Followers Target by People
 - Comment & Like Followers Target by Hashtag
 - Best Instagram Growth Service for Organic Followers.
-- Completly FREE
+
 ----
 
 # Installation

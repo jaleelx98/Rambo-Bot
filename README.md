@@ -62,7 +62,7 @@ node index.js
 - [Instagram]( https://instagram.com/jaleel_x98 )
 
 ---
-## Support the authors:
+## Support the authors
 ## Consider donating ❤️
 <a href="https://www.paypal.com/paypalme/jaleeljale"><img src="https://github.com/jaleelx98/Rambo-Bot/blob/main/src/580b57fcd9996e24bc43c530.png" align="left" height="55" ></a>
 ---

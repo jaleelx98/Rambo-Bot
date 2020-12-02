@@ -63,7 +63,7 @@ node index.js
 
 ---
 ## Support the authors
-## Consider donating ❤️
+## Consider donating...❤️
 <a href="https://paypal.me/Jaleelx98"><img src="https://github.com/jaleelx98/Rambo-Bot/blob/main/src/580b57fcd9996e24bc43c530.png" align="left" height="55" ></a>
 ---
 
